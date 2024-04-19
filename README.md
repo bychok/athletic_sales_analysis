@@ -30,7 +30,6 @@ The dataset includes sales data for 2020 and 2021, sourced from multiple athleti
 
 - Python 3.x
 - Pandas
-- Matplotlib (for data visualization)
 
 ## Setup Instructions
 
